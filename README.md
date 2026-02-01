@@ -89,8 +89,8 @@ python main.py
 
 We are constantly working to make the agent smarter and more capable. Here is what is coming next:
 
-**[ ] Long-Term Memory:** Integrate a vector database (e.g., ChromaDB or Pinecone) so the agent can remember context across different sessions.
-**[ ] Multi-Agent Collaboration:** Split the workflow into specialized roles (e.g., a "Researcher" agent that finds data and a "Writer" agent that compiles the report).
-**[ ] Deep Content Reading:** Add a "Scraper" tool allowing the agent to visit URLs and read full articles/PDFs, rather than just relying on search snippets.
-**[ ] Local Model Support:** Add support for running local LLMs (via Ollama/Llama 3) for privacy-focused research.
-**[ ] Export Options:** specific buttons to download the final report as a `.pdf` or `.md` file.
+* **[ ] Long-Term Memory:** Integrate a vector database (e.g., ChromaDB or Pinecone) so the agent can remember context across different sessions.
+* **[ ] Multi-Agent Collaboration:** Split the workflow into specialized roles (e.g., a "Researcher" agent that finds data and a "Writer" agent that compiles the report).
+* **[ ] Deep Content Reading:** Add a "Scraper" tool allowing the agent to visit URLs and read full articles/PDFs, rather than just relying on search snippets.
+* **[ ] Local Model Support:** Add support for running local LLMs (via Ollama/Llama 3) for privacy-focused research.
+* **[ ] Export Options:** specific buttons to download the final report as a `.pdf` or `.md` file.
