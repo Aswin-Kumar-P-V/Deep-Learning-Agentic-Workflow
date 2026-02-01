@@ -1,4 +1,3 @@
-```markdown
 # 🕵️‍♂️ Deep Research Agent with Recursive Critique
 
 An autonomous AI agent capable of performing deep research by recursively searching the web, synthesizing information, and self-critiquing its own answers to ensure accuracy and depth.
@@ -7,10 +6,10 @@ Built with **Python**, **OpenAI GPT-4o/GPT-5**, and **Streamlit**.
 
 ## 🚀 Key Features
 
-* **Autonomy:** The agent decides *what* to search and *how many times* to search based on the query complexity.
-* **Recursive Research Loop:** Instead of a single search, the agent loops until it gathers sufficient information.
-* **Self-Correction (The "Critic"):** A secondary LLM call acts as a "Senior Editor," reviewing the draft answer. If it's too vague or lacks citations, the Critic rejects it and forces the Agent to do more research.
-* **Dual Interface:** Run it as a simple Command Line Tool or a full interactive Web App.
+**Autonomy:** The agent decides *what* to search and *how many times* to search based on the query complexity.
+**Recursive Research Loop:** Instead of a single search, the agent loops until it gathers sufficient information.
+**Self-Correction (The "Critic"):** A secondary LLM call acts as a "Senior Editor," reviewing the draft answer. If it's too vague or lacks citations, the Critic rejects it and forces the Agent to do more research.
+**Dual Interface:** Run it as a simple Command Line Tool or a full interactive Web App.
 
 ## 📂 Project Structure
 
@@ -21,7 +20,6 @@ Built with **Python**, **OpenAI GPT-4o/GPT-5**, and **Streamlit**.
 ├── tools.py             # Tool logic (Web Search implementation)
 ├── tooldefinition.py    # JSON schemas for OpenAI function calling
 └── utilty.py            # Helper functions (LLM calls, Critic logic)
-
 ```
 
 ## 🛠️ Installation
