@@ -94,3 +94,9 @@ We are constantly working to make the agent smarter and more capable. Here is wh
 * **[ ] Deep Content Reading:** Add a "Scraper" tool allowing the agent to visit URLs and read full articles/PDFs, rather than just relying on search snippets.
 * **[ ] Local Model Support:** Add support for running local LLMs (via Ollama/Llama 3) for privacy-focused research.
 * **[ ] Export Options:** specific buttons to download the final report as a `.pdf` or `.md` file.
+
+
+https://github.com/user-attachments/assets/7e4377e4-bc36-411c-a301-48dc27b0fa55
+
+
+  
